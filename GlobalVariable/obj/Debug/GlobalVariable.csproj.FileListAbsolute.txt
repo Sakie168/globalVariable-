@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\week11\GlobalVariable\GlobalVariable\bin\Debug\GlobalVariable.exe.config
+C:\Users\ASUS\Documents\week11\GlobalVariable\GlobalVariable\bin\Debug\GlobalVariable.exe
+C:\Users\ASUS\Documents\week11\GlobalVariable\GlobalVariable\bin\Debug\GlobalVariable.pdb
+C:\Users\ASUS\Documents\week11\GlobalVariable\GlobalVariable\obj\Debug\GlobalVariable.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\week11\GlobalVariable\GlobalVariable\obj\Debug\GlobalVariable.Form1.resources
+C:\Users\ASUS\Documents\week11\GlobalVariable\GlobalVariable\obj\Debug\GlobalVariable.Form2.resources
+C:\Users\ASUS\Documents\week11\GlobalVariable\GlobalVariable\obj\Debug\GlobalVariable.Properties.Resources.resources
+C:\Users\ASUS\Documents\week11\GlobalVariable\GlobalVariable\obj\Debug\GlobalVariable.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\week11\GlobalVariable\GlobalVariable\obj\Debug\GlobalVariable.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\week11\GlobalVariable\GlobalVariable\obj\Debug\GlobalVariable.exe
+C:\Users\ASUS\Documents\week11\GlobalVariable\GlobalVariable\obj\Debug\GlobalVariable.pdb
